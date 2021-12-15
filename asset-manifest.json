@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/counterapp/static/css/main.abd64e84.css",
+    "main.js": "/counterapp/static/js/main.940e28d4.js",
+    "index.html": "/counterapp/index.html",
+    "main.abd64e84.css.map": "/counterapp/static/css/main.abd64e84.css.map",
+    "main.940e28d4.js.map": "/counterapp/static/js/main.940e28d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.940e28d4.js"
+  ]
+}
